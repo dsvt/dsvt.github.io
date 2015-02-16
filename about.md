@@ -16,7 +16,7 @@ My current research interests include:
 * **systems architecture** (with emphasis on software and sustainable systems such as smart grids), and
 * **systems privacy and security** (with emphasis on crypto currencies and secure smart grid infrastructure and trading).
 
-I lead the **Strategic Requirements and Systems Security Group (SRSSG)]**[6] at Masdar Institute of Science and Technology.
+I lead the [Strategic Requirements and Systems Security Group (SRSSG)][6] at Masdar Institute of Science and Technology.
 
 Previously, I worked at [Lero – the Irish Software Engineering Center][7] and [Vienna University of Technology][8]. I received my PhD and MMath degrees in Computer Science from [University of Waterloo][9], Canada.
 
