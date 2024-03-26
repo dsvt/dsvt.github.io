@@ -1,6 +1,8 @@
-# Davor Svetinovic
+# Welcome
 
-Computer Science Professor & Research Leader | Specializing in Blockchain, Cybersecurity & AI | Passionate about ethical tech & innovation |
+Computer Science Professor & Research Leader 
+Specializing in Blockchain, Cybersecurity & AI 
+Passionate about ethical tech & innovation
 
 My [Twitter / X](https://twitter.com/dsvetino)
 
